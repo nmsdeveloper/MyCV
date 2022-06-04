@@ -9,9 +9,9 @@
   --title-color: #0b0a0a;
   --text-color: #403a3a;
   --text-color-light: #707070;
-  --container-color: #fafafa;
-  --container-color-alt: #f0efef;
-  --body-color: #fcfcfc;
+  --container-color: #efeafc;
+  --container-color-alt: #ded5fa;
+  --body-color: #ecf0f3;
 
   /*========== Font and typography ==========*/
   --body-font: "Poppins", sans-serif;
